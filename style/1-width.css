@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	background-color: red;
+	width: 500px;
+	height: 50px;
+}
+
+.child {
+	background-color: blue;
+	width: 70vw;
+}
+
+/* h1 {
+	border: 2px solid red;
+} */
