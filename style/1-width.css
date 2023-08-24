@@ -5,15 +5,19 @@ body {
 
 .container {
 	background-color: red;
-	width: 500px;
 	height: 50px;
+	font-size: 4rem;
 }
 
-.child {
+/* .child {
 	background-color: blue;
 	width: 70vw;
-}
+} */
 
 /* h1 {
 	border: 2px solid red;
 } */
+
+h1 {
+	font-size: 1em;
+}
