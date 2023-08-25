@@ -1,0 +1,52 @@
+.grid-container {
+	display: grid;
+	height: 500px;
+	border: 1px solid red;
+	grid-template-columns: 100px 100px 100px 100px;
+	grid-template-rows: 100px 100px 100px;
+	/* justify-content: center;
+	align-content: center; */
+	grid-auto-rows: 50px;
+	grid-template-areas: "a a a a a";
+	grid-auto-columns: 50px;
+}
+
+.grid-item {
+	color: white;
+}
+
+.one {
+	background-color: red;
+}
+
+.two {
+	background-color: blue;
+}
+
+.three {
+	background-color: green;
+}
+
+.four {
+	background-color: violet;
+}
+
+.five {
+	background-color: aqua;
+}
+
+.six {
+	background-color: tomato;
+}
+
+.seven {
+	background-color: steelblue;
+}
+
+.eight {
+	background-color: slategrey;
+}
+
+.nine {
+	background-color: sienna;
+}
